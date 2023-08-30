@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    margin-top: 5px;
+}
+.info{
+    font-weight: 600px;
+    line-height: 20px;
+    font-size: 15px;
+    color: #1c1e21;
+}
+body{
+    background-color: #fafafa;
+}
+.right-column{
+    background-color: #fff;
+    border: 1px solid #e6e6e6;
+    width: 350px;
+    margin: 10px;
+    padding-left:40px ;
+    padding-right: 40px; ;
+    padding-bottom: 30px;
+}
+.instagram-logo{
+    margin: 15px auto;
+    margin-top: 20px;
+    height: 50px;
+}
+.form-floating{
+    background-color: #fafafa;
+    border: 1px solid #e6e6e6;
+    font-size: 12px;
+
+}
+::placeholder{
+    color: #999;
+    
+}
+.btn-info{
+    background-color: #3897f0;
+    border: 1px solid #3897f0;
+}
+.right-column-signup{
+    background-color: #fff;
+    border: 1px solid #e6e6e6;
+    width: 350px;
+    margin: 10px;
+    padding: 10px;
+}
+.get-app{
+    width: 350px;
+}
+.store img{
+    height: 40px;
+    margin-right: 20px;
+}
+.font{
+    font-size: 14px;
+}
+.font-sign{
+    font-size: 12px;
+}
+.color-spec{
+    color: #00376b;
+}
+.toogle-btn{
+    font-size: 3px;
+}
+.select{
+    margin-bottom: 25px;
+    border: none;
+    height: 25px;
+    width: 70px;
+    font-size: 12px;
+}
+.img-download-mic{
+padding-left: 40px;
+}

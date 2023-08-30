@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    box-sizing: border-box;
+}
+
+.sidebar ul li{
+    margin: 25px 0;
+}
+.sidebar ul li a{
+    color: #000000;
+}
+.sidebar ul li a:hover{
+    background-color: #F2F2F2;
+    margin-left: 20px;
+    transition: 0.4s;
+}
+.main-home{
+    margin-left: 250px;
+}

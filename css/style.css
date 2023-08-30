@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    margin-top: 20px;
+}
+.Phone{
+    padding-top: 70px;
+    height: 650px;
+    float: right;
+    margin: 10px;
+    margin-left: 50px;
+}
+body{
+    background-color: #fafafa;
+}
+.right-column{
+    background-color: #fff;
+    border: 1px solid #e6e6e6;
+    width: 350px;
+    margin-top: 50px;
+    margin-bottom:10px ;
+    margin-left: 10px;
+    margin-right:10px ;
+    padding-top:40px ;
+    padding-left:40px ;
+    padding-right: 40px; ;
+    padding-bottom: 20px;
+}
+.instagram-logo{
+    margin: 15px auto;
+    height: 50px;
+}
+.form-floating{
+    background-color: #fafafa;
+    border: 1px solid #e6e6e6;
+    font-size: 13px;
+
+}
+::placeholder{
+    color: #999;
+    
+}
+.btn-info{
+    background-color: #3897f0;
+    border: 1px solid #3897f0;
+}
+.right-column-signup{
+    background-color: #fff;
+    border: 1px solid #e6e6e6;
+    width: 350px;
+    margin: 10px;
+    padding: 10px;
+}
+.get-app{
+    width: 350px;
+}
+.store img{
+    height: 40px;
+    margin-right: 20px;
+}
+.font{
+    font-size: 14px;
+}
+.font-sign{
+    font-size: 12px;
+}
+.select{
+    margin-bottom: 25px;
+    border: none;
+    height: 25px;
+    width: 70px;
+    font-size: 12px;
+}
+.img-download{
+    margin-left: 40px;
+}
+.img-download-mic{
+    margin-left: 25px;
+}
+.imagephone{
+    width: 75%;
+    margin-left: 190px;
+    margin-top: 30px;
+}
+#carousel{
+    margin-top: -100%;
+}
+.select:active {
+    border: none;
+}
+.imgslider{
+    width: 41%;
+    margin-left: 350px;
+    margin-top: 7px;
+}
+
+.carousel-item {
+    transition: transform 2.6s ease-in-out;
+  }
+  
+  .carousel-fade .active.carousel-item-start,
+  .carousel-fade .active.carousel-item-end {
+    transition: opacity 0s 2.6s;
+  }
+
+.container{
+    margin-top: 20px;
+}
